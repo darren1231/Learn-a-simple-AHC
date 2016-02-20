@@ -9,7 +9,7 @@ v=zeros(162,1);
 x_bar=zeros(162,1);
 e=zeros(162,1);
 
-x_encoder=zeros(162,1);
+x_encoder=zeros(162,1);               %creat a zero matrix
 x=0;
 x_dot=0;
 theta=0;
